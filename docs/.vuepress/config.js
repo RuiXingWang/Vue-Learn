@@ -1,6 +1,6 @@
 const path = require("path");
 module.exports = {
-  base: "/Learn-Vue-Source-Code/",
+  base: "/ Vue-Learn/",
   dest: "dist",
   title: "逐行剖析 Vue.js 源码",
   serviceWorker: true,
@@ -81,7 +81,7 @@ module.exports = {
     ]
   ],
   themeConfig: {
-    repo: "NLRX-WJC/Learn-Vue-Source-Code",
+    repo: "RuiXingWang/Vue-Learn.git",
     editLinks: true,
     docsDir: "docs",
     editLinkText: "在 GitHub 上编辑此页",

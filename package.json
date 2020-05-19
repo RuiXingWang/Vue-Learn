@@ -1,5 +1,5 @@
 {
-  "name": "Learn-Vue-Source-Code",
+  "name": "Vue-Learn",
   "version": "1.0.0",
   "description": "",
   "directories": {
@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NLRX-WJC/Learn-Vue-Source-Code.git"
+    "url": "git+https://github.com/RuiXingWang/Vue-Learn.git"
   },
   "keywords": [],
-  "author": "NLRX",
+  "author": "WRX",
   "license": "MIT",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.2.0",
