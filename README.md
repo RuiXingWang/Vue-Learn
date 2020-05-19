@@ -87,7 +87,7 @@
 
 通过一步步的学习，博主打算在学习过程中输出以下三个东西：
 
-- 以文字形式记录学习过程，在线阅读地址：https://nlrx-wjc.github.io/Learn-Vue-Source-Code/
+- 以文字形式记录学习过程，在线阅读地址：https://ruixingwang.github.io/Vue-Learn/
 - 为`clone`下来的`Vue`源码添加尽可能详细的注释；
 - 做一份思维导图，以宏观角度总览源码；
 
