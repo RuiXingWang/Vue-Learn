@@ -81,7 +81,7 @@ module.exports = {
     ]
   ],
   themeConfig: {
-    repo: "RuiXingWang/Vue-Learn.git",
+    repo: "RuiXingWang/Vue-Learn",
     editLinks: true,
     docsDir: "docs",
     editLinkText: "在 GitHub 上编辑此页",
