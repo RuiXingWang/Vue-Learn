@@ -81,7 +81,7 @@ module.exports = {
     ]
   ],
   themeConfig: {
-    repo: "Vue-Learn",
+    repo: "/1Vue-Learn/",
     editLinks: true,
     docsDir: "docs",
     editLinkText: "在 GitHub 上编辑此页",
